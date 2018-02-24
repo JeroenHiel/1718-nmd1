@@ -45,7 +45,7 @@ h2{
 
 
 
-#flurp p{
+#about p{
     color: white;
     font-family: 'Roboto', sans-serif;
     padding-left: 100px;
@@ -157,6 +157,10 @@ h2{
     background-color: black;
 }
 
+iframe{
+    margin-left: 10%;
+}
+
 @media (max-width:800px) {
     #wrapper {
       width:100%;
@@ -194,6 +198,8 @@ h1{
     margin-left: 10%;
 }
 }
+
+
 
 @media (max-width:500px) {
     .content img {
